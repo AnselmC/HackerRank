@@ -33,4 +33,4 @@ public:
         Message msg = Message(text);
         return msg;
     }
-}
+};
